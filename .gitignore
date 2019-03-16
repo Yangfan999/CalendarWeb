@@ -1,0 +1,6 @@
+# module build folder
+node_modules/
+package-lock.json
+mongo-data
+# mac auto-generated file
+.DS_Store
